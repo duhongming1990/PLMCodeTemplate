@@ -229,4 +229,8 @@ server{
 4. 日志也是代码的一部分，提交代码前先运行看一遍操作日志
 
 
+在 Java 中应用骨架实现
+https://mp.weixin.qq.com/s/7vNwfT_Ag6ftogSzumePDg
+
+
 
